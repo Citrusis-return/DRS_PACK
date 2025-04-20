@@ -1,2 +1,2 @@
 # DRS_PACK
-Dynamic Redstone Pack.
+目前处于停更状态
